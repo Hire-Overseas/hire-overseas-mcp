@@ -47,6 +47,10 @@ Settings → Connectors → Add custom connector → paste `https://api.hireover
 
 Settings → Apps & Connectors → Advanced → turn on Developer mode, then Create and paste `https://api.hireoverseas.com/mcp` with no authentication.
 
+### Grok
+
+At [grok.com/connectors](https://grok.com/connectors), choose New Connector → Custom and enter `https://api.hireoverseas.com/mcp`.
+
 ### Cursor, VS Code and other MCP clients
 
 ```json

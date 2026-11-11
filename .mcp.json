@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hire-overseas": {
+      "type": "http",
+      "url": "https://api.hireoverseas.com/mcp"
+    }
+  }
+}

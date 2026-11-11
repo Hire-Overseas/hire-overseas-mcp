@@ -2,9 +2,20 @@
   "name": "hire-overseas",
   "version": "0.2.0",
   "description": "Search Hire Overseas's pool of remote professionals in the Philippines, Latin America and Africa, see anonymized profiles, and request an introduction.",
-  "author": { "name": "Hire Overseas", "url": "https://www.hireoverseas.com" },
+  "author": {
+    "name": "Hire Overseas",
+    "url": "https://www.hireoverseas.com"
+  },
   "homepage": "https://www.hireoverseas.com",
   "repository": "https://github.com/Hire-Overseas/hire-overseas-mcp",
   "license": "MIT",
-  "keywords": ["hiring", "recruiting", "offshore", "remote", "talent", "staffing"]
+  "keywords": [
+    "hiring",
+    "recruiting",
+    "offshore",
+    "remote",
+    "talent",
+    "staffing"
+  ],
+  "privacyPolicyUrl": "https://api.hireoverseas.com/mcp/privacy"
 }

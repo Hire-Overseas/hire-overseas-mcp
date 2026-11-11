@@ -1,11 +1,15 @@
 {
   "name": "hire-overseas",
-  "owner": { "name": "Hire Overseas", "url": "https://www.hireoverseas.com" },
+  "owner": {
+    "name": "Hire Overseas",
+    "url": "https://www.hireoverseas.com"
+  },
   "plugins": [
     {
       "name": "hire-overseas",
       "source": "./",
       "description": "Find vetted overseas talent: search candidates, see anonymized profiles, request an introduction."
     }
-  ]
+  ],
+  "description": "Hire Overseas: find remote talent from your AI assistant."
 }

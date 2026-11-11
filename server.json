@@ -1,8 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
-  "name": "io.github.hire-overseas/hire-overseas-mcp",
+  "name": "io.github.Hire-Overseas/hire-overseas-mcp",
   "description": "Search remote professionals in the Philippines, Latin America and Africa; request introductions.",
   "version": "0.2.0",
-  "repository": { "url": "https://github.com/Hire-Overseas/hire-overseas-mcp", "source": "github" },
-  "remotes": [{ "type": "streamable-http", "url": "https://api.hireoverseas.com/mcp" }]
+  "repository": {
+    "url": "https://github.com/Hire-Overseas/hire-overseas-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.hireoverseas.com/mcp"
+    }
+  ],
+  "websiteUrl": "https://www.hireoverseas.com"
 }

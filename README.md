@@ -22,6 +22,8 @@ Ask things like:
 
 Profiles show a first name, country, timezone, skills, experience and work history by job title and industry. They never include a surname, contact details, links or employer names. Hire Overseas screens and verifies each candidate, and confirms availability and pricing, before making an introduction.
 
+Full notice: [api.hireoverseas.com/mcp/privacy](https://api.hireoverseas.com/mcp/privacy)
+
 ## Install
 
 ### Claude Code

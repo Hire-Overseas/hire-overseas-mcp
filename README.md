@@ -15,12 +15,13 @@ Ask things like:
 | Tool | What it does |
 | --- | --- |
 | `search_candidates` | Up to 5 anonymized profiles for a role, in a few seconds. |
+| `get_candidate_resume` | A candidate's resume as text, with surname, contact details, links and employer names removed. |
 | `request_intro` | Asks Hire Overseas to introduce you to a candidate. Needs your company and work email. |
 | `get_request_status` | Whether an introduction request is still pending. |
 
 ## Privacy
 
-Profiles show a first name, country, timezone, skills, experience and work history by job title and industry. They never include a surname, contact details, links or employer names. Hire Overseas screens and verifies each candidate, and confirms availability and pricing, before making an introduction.
+Profiles show a first name, country, timezone, skills, experience and work history by job title and industry. They never include a surname, contact details, links or employer names. Resumes are available with the same details removed. Where a candidate has recorded an intro video, the profile links to it; the video shows the candidate. Hire Overseas screens and verifies each candidate, and confirms availability and pricing, before making an introduction.
 
 Full notice: [api.hireoverseas.com/mcp/privacy](https://api.hireoverseas.com/mcp/privacy)
 

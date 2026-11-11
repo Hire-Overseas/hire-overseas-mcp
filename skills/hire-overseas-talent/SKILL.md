@@ -26,9 +26,9 @@ If results are weak, search again with a different title for the same job (for e
 
 ## 3. Present candidates
 
-Show each candidate as a short profile: first name, country and timezone, experience, the most relevant skills, work history, and why they fit this role. Say plainly that:
+Show each candidate as a short profile: first name, country and timezone, experience, the most relevant skills, work history, and why they fit this role. When a profile includes `introVideoUrl`, give the link so the user can watch the candidate's intro video. When `resumeAvailable` is true, offer to show the resume and use `get_candidate_resume` if the user wants it. Say plainly that:
 
-- Profiles are anonymized. There is no surname, contact detail or employer name, and you cannot get them.
+- Profiles and resumes are anonymized. There is no surname, contact detail or employer name, and you cannot get them.
 - These are matches on profile. Hire Overseas screens and verifies a candidate, and confirms availability and pricing, before any introduction.
 
 Never invent details that are not in the result, and never guess a candidate's identity.
